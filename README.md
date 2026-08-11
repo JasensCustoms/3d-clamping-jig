@@ -13,6 +13,14 @@ The jig consists of four printed parts:
 | Short Side | `stl/3DClamp-ShortSide.STL` | Short side member |
 | Inner Supports | `stl/3DClamp-InnerSupports.STL` | Internal support piece |
 
+## Hardware
+
+In addition to the printed parts, assembly requires:
+
+| Qty | Hardware | Size |
+|-----|----------|------|
+| 14 | #6 wood screws | 1" long |
+
 ## Repository layout
 
 - `stl/` — Ready-to-print STL exports of each part
@@ -28,4 +36,4 @@ The full SolidWorks assembly (`cad/3dClampJig.SLDASM`) and part files are includ
 
 ## License
 
-See [LICENSE](LICENSE) if present, or contact the author.
+This design is free for personal use — print it, modify it, and share it non-commercially with attribution. Commercial use, including selling prints or derivatives of this design, is not authorized. See [LICENSE](LICENSE) for details (CC BY-NC 4.0).
