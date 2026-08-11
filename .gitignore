@@ -1,0 +1,11 @@
+# SolidWorks temp/lock files
+~$*
+*.swp
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Slicer output
+*.gcode
+*.3mf.bak
