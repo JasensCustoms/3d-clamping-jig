@@ -2,6 +2,8 @@
 
 A 3D-printable clamping jig designed to make cabinet assembly easier. The jig holds panels square while you glue, clamp, and fasten cabinet carcasses — no more fumbling with corner squares and slipping panels.
 
+![Assembled clamping jig](images/jig-assembled.jpg)
+
 ## Parts
 
 The jig consists of four printed parts:
@@ -21,10 +23,25 @@ In addition to the printed parts, assembly requires:
 |-----|----------|------|
 | 14 | #6 wood screws | 1" long |
 
+## Photos
+
+The jig in use, holding a cabinet corner square during assembly:
+
+![Jig in use on a cabinet corner](images/jig-in-use.jpg)
+
+Interior view — the ribs register both panels at a true 90°:
+
+![Interior of the jig showing support ribs](images/jig-interior.jpg)
+
+Exterior corner, showing the screw assembly:
+
+![Exterior corner of the assembled jig](images/jig-exterior-corner.jpg)
+
 ## Repository layout
 
 - `stl/` — Ready-to-print STL exports of each part
 - `cad/` — SolidWorks source files (`.SLDPRT` parts and the `.SLDASM` assembly) for anyone who wants to modify the design
+- `images/` — Photos of the printed and assembled jig
 
 ## Printing
 
